@@ -1,6 +1,6 @@
 # go-mongo-db
 simple CRUD using Echo framework and Mongo DB
 
-packages:__
-go get github.com/labstack/echo/v4__
+packages:\
+go get github.com/labstack/echo/v4\
 go get go.mongodb.org/mongo-driver/mongo
